@@ -14,3 +14,4 @@ A collection of generative tools for creative purposes!
 - [MT3](https://github.com/magenta/mt3) - audio to midi transcrition.
 - [yt-mt3](https://github.com/mdnestor/yt-mt3) - a direct pipe from YouTube into MT3.
 - [Jukebox](https://colab.research.google.com/drive/1sJda9v46gNzBc7m59MP5zn63AWc-axCY?usp=sharing) - a user-friendly notebook for interaction with OpenAI Jukebox.
+- [15.ai tts](https://colab.research.google.com/github/mdnestor/generative-tools/blob/master/15ai-text-to-speech.ipynb) - quick text-to-speech via 15.ai API
