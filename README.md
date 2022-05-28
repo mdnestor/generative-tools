@@ -8,7 +8,7 @@ A collection of generative tools for creative purposes!
 # Image
 - [NeuralBlender](https://neuralblender.com) - this is a web-based text2image generator. It is slow to use, but easy.
 - [Latent Diffusion LAION-400M](https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb) - text2image notebook.
-  - [Latent Diffusion 1-Click](https://colab.research.google.com/github/mdnestor/generative-tools/blob/master/latent-diffusion-oneclick.ipynb) - the same but simpler (by me).
+  - [Latent Diffusion 1-Click](https://colab.research.google.com/github/mdnestor/generative-tools/blob/master/latent-diffusion-one-click.ipynb) - the same but simpler (by me).
 
 # Audio
 - [MT3](https://github.com/magenta/mt3) - audio to midi transcrition.
